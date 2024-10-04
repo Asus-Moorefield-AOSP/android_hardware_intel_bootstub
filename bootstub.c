@@ -26,7 +26,7 @@
 #include "ssp-uart.h"
 #include "mb.h"
 #include "sfi.h"
-#include <bootimg.h>
+#include "bootimg.h"
 
 #include <stdint.h>
 #include <stddef.h>
